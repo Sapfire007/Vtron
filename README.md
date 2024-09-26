@@ -53,22 +53,22 @@ Ensure you have Python 3.8 or higher installed. You can download Python from [py
    ```sh
    # Vtron Project Packages
    
-   1. **requests** - For making HTTP requests to external APIs.
-   2. **wikipedia** - To fetch information from Wikipedia.
-   3. **pywhatkit** - For interacting with WhatsApp, YouTube, and Google searches.
-   4. **webbrowser** - To open URLs in the default web browser.
-   5. **email.message (EmailMessage)** - For creating email messages.
-   6. **smtplib** - For sending emails via the SMTP protocol.
-   7. **decouple** - For managing environment variables from a `.env` file.
-   8. **speech_recognition** - For converting spoken words into text.
-   9. **pyttsx3** - For text-to-speech conversion.
-   10. **keyboard** - For detecting keyboard hotkeys.
-   11. **os** - For interacting with the operating system.
-   12. **tkinter** - For building the graphical user interface (GUI).
-   13. **threading** - For handling concurrent tasks.
-   14. **time** - For managing time-related tasks.
-   15. **datetime** - For date and time manipulation.
-   16. **pyjokes** - For generating random jokes.
+   1. requests - For making HTTP requests to external APIs.
+   2. wikipedia - To fetch information from Wikipedia.
+   3. pywhatkit - For interacting with WhatsApp, YouTube, and Google searches.
+   4. webbrowser - To open URLs in the default web browser.
+   5. email.message (EmailMessage) - For creating email messages.
+   6. smtplib - For sending emails via the SMTP protocol.
+   7. decouple - For managing environment variables from a `.env` file.
+   8. speech_recognition - For converting spoken words into text.
+   9. pyttsx3 - For text-to-speech conversion.
+   10. keyboard - For detecting keyboard hotkeys.
+   11. os - For interacting with the operating system.
+   12. tkinter - For building the graphical user interface (GUI).
+   13. threading - For handling concurrent tasks.
+   14. time - For managing time-related tasks.
+   15. datetime - For date and time manipulation.
+   16. pyjokes - For generating random jokes.
 
    ```
 
