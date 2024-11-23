@@ -119,8 +119,8 @@ Ensure you have Python 3.8 or higher installed. You can download Python from [py
 ## Additional Information
 
 ### GUI Layout
-- **Image Display**: The right half of the Tkinter GUI displays a GIF or picture of AI.
-- **Terminal**: The left half of the Tkinter GUI acts as a chat terminal.
+- **Image Display**: The left half of the Tkinter GUI displays a GIF or picture of AI.
+- **Terminal**: The right half of the Tkinter GUI acts as a chat terminal.
 
 ### Voice Command Handling
 - Commands for starting and stopping OpenAI interactions are implemented in the `process_input()` function.
